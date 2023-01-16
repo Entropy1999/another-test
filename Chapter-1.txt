@@ -1,1 +1,1 @@
-This is the first message that will be commited to the git hub;
+This is the first message that will be commited to the git hub
